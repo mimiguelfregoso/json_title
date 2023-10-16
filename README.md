@@ -1,2 +1,21 @@
 # json_title
 se usuara para titulos
+
+{
+  "userId": 1,
+  "id": 1,
+  "title": "Miguel Fregoso",
+  "completed": false
+}
+{
+  "userId": 2,
+  "id": 2,
+  "title": "UdG Virtual",
+  "completed": false
+}
+{
+  "userId": 3,
+  "id": 3,
+  "title": "Universidad de Guadalajara",
+  "completed": false
+}
